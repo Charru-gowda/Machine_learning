@@ -115,7 +115,7 @@ To run these projects locally, follow the steps below:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/radhikaa027/Machine-Learning-Mini-Projects.git
+   git clone [https://github.com/Charru-gowda/Machine_learning.git]
    ```
 
 2. **Navigate to the Repository Directory:**
@@ -196,5 +196,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 *Happy coding and exploring machine learning!*  
-*— Radhika Bhati*
+*— S N Charanraj*
 ```
